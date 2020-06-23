@@ -1,0 +1,3 @@
+id=3; Login=q; Password=987; UserType=COMMON_USER
+id=2; Login=manager; Password=123; UserType=MANAGER
+id=1; Login=admin; Password=qwerty; UserType=ADMINISTRATOR
